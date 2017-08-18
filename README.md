@@ -17,6 +17,6 @@ $('input').commaSeparatedNumber({
 ### Options
 
 |Option|Description|Possible values|Default|                   
-|======|===========|===============|=======|                    
-|allowedChars| String of allowed chars| strings made up of b, m, k| "bmk"|              
-|allowDecimal| Allow decimal numbers to be input| true, false| true|          
+|------|-----------|---------------|-------|                    
+|allowedChars| String of allowed chars| strings made up of b, m, k| `"bmk"`|              
+|allowDecimal| Allow decimal numbers to be input| `true`, `false`| `true`|          
