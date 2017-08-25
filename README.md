@@ -22,7 +22,7 @@ parseFloat($('input').data('value')) // 12000
 ### Options
 
 |Option|Description|Possible values|Default|                   
-|======|===========|===============|=======|                    
+|------|-----------|---------------|-------|                    
 |allowedChars| String of allowed chars which are auto replaced with numbers| strings made up of b, m, k| `"bmk"`|              
 |allowDecimal| Allow decimal numbers to be input| true, false| `true`|          
 |allowNegative| Allow negative numbers to be input| true, false| `true`|          
